@@ -1,0 +1,17 @@
+{
+    "name": "launchscopes.liu-xiao-guo",
+    "description": "description of launchscopes",
+    "architecture": "all",
+    "title": "launchscopes",
+    "hooks": {
+        "launchscopes": {
+            "apparmor": "launchscopes.apparmor",
+            "desktop":  "launchscopes.desktop"
+        }
+    },
+    "version": "0.1",
+    "maintainer": "XiaoGuo, Liu <xiaoguo.liu@canonical.com>",
+    "framework" : "ubuntu-sdk-15.04"
+}
+
+

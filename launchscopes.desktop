@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=launchscopes
+Exec=qmlscene $@ Main.qml
+Icon=launchscopes.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+
